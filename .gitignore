@@ -11,8 +11,7 @@ env/
 venv/
 
 # Ignore model files
-src/model/network_ids_model.pth
-src/model/network_ids_model
+src/model/
 
 # Ignore CSV files
 CIC-IDS- 2017/*.csv
@@ -26,4 +25,3 @@ Thumbs.db
 
 # Ignore temporary files
 *.tmp
-*.temp
