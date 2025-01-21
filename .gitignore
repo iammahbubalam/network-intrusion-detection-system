@@ -1,0 +1,28 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+.venv/
+env/
+venv/
+
+# Ignore model files
+src/model/network_ids_model.pth
+
+# Ignore CSV files
+CIC-IDS- 2017/*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
